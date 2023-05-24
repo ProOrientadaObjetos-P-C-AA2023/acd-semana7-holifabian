@@ -1,0 +1,2 @@
+Nombre: Daniel 	 Sueldo: 900,50
+Nombre: Juan 	 Sueldo: 1000.560 
